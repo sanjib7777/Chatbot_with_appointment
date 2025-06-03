@@ -1,6 +1,6 @@
 # 🤖 AI Assistant Chatbot with Appointment Booking
 
-This is a conversational chatbot web application built using **Streamlit**, **LangChain** and **OpenAI**. It can answer queries based on documents(currently using sample txt file for testing) and allows users to **book appointments** via a conversational form interface.
+This is a conversational chatbot web application built using **Streamlit**, **LangChain** and **OpenAI**. It can answer queries based on documents(currently using **sample.txt** file for testing) and allows users to **book appointments** via a conversational form interface.
 
 ---
 
