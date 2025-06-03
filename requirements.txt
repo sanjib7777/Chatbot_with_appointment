@@ -5,3 +5,5 @@ pydantic
 streamlit 
 python-dotenv
 langchain-community
+sentence_transformers 
+faiss-cpu
