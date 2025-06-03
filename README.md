@@ -4,18 +4,18 @@ This is a conversational chatbot web application built using **Streamlit**, **La
 
 ---
 
-## 🔍 Features
+## Features
 
-- 💬 **Natural Chat Interface** using `st.chat_input()`
-- 📄 **Question Answering** from a document (`sample.txt`) using Vector Embeddings
-- 📅 **Appointment Booking Form** triggered via conversation
-- ✅ **Email and Phone Number Validation**
-- 🧠 **Memory Support** for continuous conversation
-- 🌐 Powered by **LangChain Agents**, **Hugging Face Open Source Model** and **OpenAI GPT-4o-mini**
+- **Natural Chat Interface** using `st.chat_input()`
+- **Question Answering** from a document (`sample.txt`) using Vector Embeddings
+- **Appointment Booking Form** triggered via conversation
+- **Email and Phone Number Validation**
+- **Memory Support** for continuous conversation
+- Powered by **LangChain Agents**, **Hugging Face Open Source Model** and **OpenAI GPT-4o-mini**
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 1. Users can chat with the AI Assistant.
 2. When the user types phrases like `book` or `call me`, the assistant will prompt a form to collect details.
